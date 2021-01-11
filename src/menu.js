@@ -5,13 +5,13 @@ function createMenuTab() {
     const menuH1 = document.createElement("h1"); // create the header
     const text = document.createTextNode("Menu"); // create the text
 
-    const burger = document.createElement("h3"); //create the burger headear
+    const burger = document.createElement("h2"); //create the burger headear
     burger.innerHTML = "Tasty Burger"; // set the text inside the burger header
 
     const burgerParagraph = document.createElement("p"); // create the burger paragraph
     burgerParagraph.innerHTML = "The tastiest burger in the world"; // set the text inside the burger paragraph
 
-    const curry = document.createElement("h3"); // create the curry header
+    const curry = document.createElement("h2"); // create the curry header
     curry.innerHTML = "Secret Formula Curry"; // set the text of the curry header
 
     const curryParagraph = document.createElement("p"); // create the curry paragraph

@@ -55,7 +55,7 @@ function styleWebsite () {
     // style the body
     document.body.style.textAlign = "center";
     document.body.style.paddingTop = "auto";
-    document.body.style.fontSize = "3em";
+    document.body.style.fontSize = "2.5em";
 };
 styleWebsite();
 
