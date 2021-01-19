@@ -1,4 +1,4 @@
-// import functions from page-load.js
+// import files
 import {
     createH1Element,
     createImageElement,
@@ -12,6 +12,8 @@ import {
 import {
     createMenuTab
 } from "./menu.js";
+
+import "./styles.css";
 
 // create navigation buttons
 function createNavigation () {
